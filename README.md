@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @leonardomt
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Angular
-- 📫 How to reach me mancebotejera@gmail.com
+- 👋 Hi, I’m @leonardomt  
+- 💻 Full-stack developer focused on building scalable web applications and APIs  
+- 🚀 Experienced with Laravel, Vue.js, .NET, and modern web technologies  
+- 👀 Interested in Web Development, SaaS platforms, and system architecture  
+- 🌱 Always learning and building new things  
+- 📫 How to reach me: mancebotejera@gmail.com
