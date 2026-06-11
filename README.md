@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @leonardomt
-- 💻bmostudios.com
+- 💻 Website: www.bmostudios.com
 - 💻 Full-stack developer focused on building scalable web applications and APIs  
 - 🚀 Experienced with Laravel, Vue.js, .NET, and modern web technologies  
 - 👀 Interested in Web Development, SaaS platforms, and system architecture  
